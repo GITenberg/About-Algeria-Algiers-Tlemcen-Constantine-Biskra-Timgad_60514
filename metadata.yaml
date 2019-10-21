@@ -1,0 +1,26 @@
+_repo: About-Algeria-Algiers-Tlemcen-Constantine-Biskra-Timgad_60514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas-Stanford, Charles
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '50995'
+    url: http://www.gutenberg.org/2009/agents/50995
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Thomas-Stanford
+description: ''
+gutenberg_issued: '2019-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60514'
+  lccn: '12007602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Algeria -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'About Algeria: Algiers, Tlemçen, Constantine, Biskra, Timgad'
+url: http://www.gutenberg.org/ebooks/60514
